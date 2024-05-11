@@ -38,6 +38,8 @@
     :alt: MIT License
 
 
+This repo belongs to MJ.
+
 What is an iModulon?
 --------------------
 To learn about iModulons, how they are computed, and what they can tell you, see our `about page <https://imodulondb.org/about.html>`_.
