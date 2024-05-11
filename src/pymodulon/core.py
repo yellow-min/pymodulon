@@ -106,7 +106,8 @@ class IcaData(object):
         # Convert column names of M to int if possible
         try:
             M.columns = M.columns.astype(int)
-        except TypeError:
+        # except TypeError:
+        except ValueError:
             pass
 
         # Check that M and A matrices have identical iModulon names
